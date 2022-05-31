@@ -1,0 +1,13 @@
+Stock
+banana : 1
+Transactions
+---------
+ Payer : warehouse 
+ Payee : supplyer 
+ Date and Time : 01/01/0001 00:00:00 
+ Amount : 25.00
+---------
+ Payer : 1234 
+ Payee : warehouse 
+ Date and Time : 01/01/0001 00:00:00 
+ Amount : 49.50
